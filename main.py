@@ -144,5 +144,5 @@ dateStart = dateStart.strftime('%Y-%m-%d')
 try:
   main()
 except  Exception as e:
-  print('error  ' + str(e), chat)
+  print('error  ' + str(e))
     
